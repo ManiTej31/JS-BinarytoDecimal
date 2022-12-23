@@ -1,4 +1,4 @@
-# Color changer
+# Binary to decimal
 
  ## url: [live url](https://jsb2c.netlify.app)
 
